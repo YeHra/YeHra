@@ -1,3 +1,5 @@
+🇬🇧 English | 🇩🇪 Deutsch
+
 # Data Analytics Portfolio
 
 Hi, I'm YeHra — this is a collection of data analytics projects covering the full pipeline: data cleaning, exploratory analysis, unit economics, A/B testing, SQL/NoSQL application development, and BI dashboarding.
