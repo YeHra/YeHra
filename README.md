@@ -1,4 +1,4 @@
-🇬🇧 English | 🇩🇪 Deutsch
+🇬🇧 English | 🇩🇪 [Deutsch](README.de.md)
 
 # Data Analytics Portfolio
 
